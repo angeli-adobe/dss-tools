@@ -1,0 +1,29 @@
+{
+    "event-collection": {
+        "totalTest": 168,
+        "totalPass": 100,
+        "totalWarn": 5,
+        "totalFail": 63,
+        "passPercentage": 60,
+        "warnPercentage": 3,
+        "failPercentage": 38
+    },
+    "segmentation": {
+        "totalTest": 168,
+        "totalPass": 87,
+        "totalWarn": 28,
+        "totalFail": 52,
+        "passPercentage": 52,
+        "warnPercentage": 17,
+        "failPercentage": 31
+    },
+    "profile-collection": {
+        "totalTest": 168,
+        "totalPass": 112,
+        "totalWarn": 29,
+        "totalFail": 25,
+        "passPercentage": 67,
+        "warnPercentage": 17,
+        "failPercentage": 15
+    }
+}
