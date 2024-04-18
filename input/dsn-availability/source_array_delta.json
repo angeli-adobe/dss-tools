@@ -1,0 +1,29 @@
+[
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713416434995",
+        "timestamp": 1713416434995,
+        "dateString": "April 18th 2024, 7:00:34 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "fail",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713420034952",
+        "timestamp": 1713420034952,
+        "dateString": "April 18th 2024, 8:00:34 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713423635104",
+        "timestamp": 1713423635104,
+        "dateString": "April 18th 2024, 9:00:35 am",
+        "isWorkingTime": true
+    }
+]

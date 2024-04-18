@@ -1,0 +1,18 @@
+{
+    "_demopotemea": {
+        "testDetails": {
+            "testResult": {
+                "testFail": 1638,
+                "testPass": 3975,
+                "testWarn": 32519
+            },
+            "testType": "profileCollection"
+        },
+        "identities": {
+            "datacenterId": "Sample value"
+        }
+    },
+    "_id": "/uri-reference",
+    "eventType": "advertising.completes",
+    "timestamp": "2018-11-12T20:20:39+00:00"
+}
