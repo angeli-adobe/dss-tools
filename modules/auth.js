@@ -52,4 +52,7 @@ async function auth(credentials) {
     return res.data;
 
 }
-module.exports = init;
+module.exports = {
+    init: init,
+    getToken: auth
+};

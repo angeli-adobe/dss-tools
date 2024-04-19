@@ -1,6 +1,7 @@
 const fs = require('fs');
 const moment = require('moment');
 const _ = require('underscore');
+const batchIngestion = require('./modules/aep/batch-upload.js');
 
 // To run the code, open DSN Status, filter the Network result with "luma" and copy the response.
 // Paste the response in dsn-availability.json and run the code.
@@ -213,5 +214,5 @@ function dataAnalyser(data) {
 
 }
 
-
-main()
+batchIngestion.uploadFile()
+// main()

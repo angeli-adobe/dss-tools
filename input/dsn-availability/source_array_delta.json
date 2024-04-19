@@ -1,29 +1,218 @@
 [
     {
         "event-collection": "pass",
-        "segmentation": "pass",
-        "profile-collection": "pass",
-        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713416434995",
-        "timestamp": 1713416434995,
-        "dateString": "April 18th 2024, 7:00:34 am",
-        "isWorkingTime": false
-    },
-    {
-        "event-collection": "pass",
         "segmentation": "fail",
+        "profile-collection": "warn",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713427235155",
+        "timestamp": 1713427235155,
+        "dateString": "April 18th 2024, 10:00:35 am",
+        "isWorkingTime": true
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
         "profile-collection": "pass",
-        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713420034952",
-        "timestamp": 1713420034952,
-        "dateString": "April 18th 2024, 8:00:34 am",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713430835151",
+        "timestamp": 1713430835151,
+        "dateString": "April 18th 2024, 11:00:35 am",
+        "isWorkingTime": true
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713434435094",
+        "timestamp": 1713434435094,
+        "dateString": "April 18th 2024, 12:00:35 pm",
+        "isWorkingTime": true
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713438035066",
+        "timestamp": 1713438035066,
+        "dateString": "April 18th 2024, 1:00:35 pm",
+        "isWorkingTime": true
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "warn",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713441634987",
+        "timestamp": 1713441634987,
+        "dateString": "April 18th 2024, 2:00:34 pm",
+        "isWorkingTime": true
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "warn",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713445235037",
+        "timestamp": 1713445235037,
+        "dateString": "April 18th 2024, 3:00:35 pm",
+        "isWorkingTime": true
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713448835191",
+        "timestamp": 1713448835191,
+        "dateString": "April 18th 2024, 4:00:35 pm",
+        "isWorkingTime": true
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713452435119",
+        "timestamp": 1713452435119,
+        "dateString": "April 18th 2024, 5:00:35 pm",
+        "isWorkingTime": true
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713456035107",
+        "timestamp": 1713456035107,
+        "dateString": "April 18th 2024, 6:00:35 pm",
+        "isWorkingTime": true
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "warn",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713459635080",
+        "timestamp": 1713459635080,
+        "dateString": "April 18th 2024, 7:00:35 pm",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "warn",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713463235228",
+        "timestamp": 1713463235228,
+        "dateString": "April 18th 2024, 8:00:35 pm",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "warn",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713466835011",
+        "timestamp": 1713466835011,
+        "dateString": "April 18th 2024, 9:00:35 pm",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "warn",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713470434911",
+        "timestamp": 1713470434911,
+        "dateString": "April 18th 2024, 10:00:34 pm",
         "isWorkingTime": false
     },
     {
         "event-collection": "pass",
         "segmentation": "pass",
         "profile-collection": "pass",
-        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713423635104",
-        "timestamp": 1713423635104,
-        "dateString": "April 18th 2024, 9:00:35 am",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713474035066",
+        "timestamp": 1713474035066,
+        "dateString": "April 18th 2024, 11:00:35 pm",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713477635122",
+        "timestamp": 1713477635122,
+        "dateString": "April 19th 2024, 12:00:35 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713481234949",
+        "timestamp": 1713481234949,
+        "dateString": "April 19th 2024, 1:00:34 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "warn",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713484835145",
+        "timestamp": 1713484835145,
+        "dateString": "April 19th 2024, 2:00:35 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713488434891",
+        "timestamp": 1713488434891,
+        "dateString": "April 19th 2024, 3:00:34 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713492035052",
+        "timestamp": 1713492035052,
+        "dateString": "April 19th 2024, 4:00:35 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713495635218",
+        "timestamp": 1713495635218,
+        "dateString": "April 19th 2024, 5:00:35 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713499235123",
+        "timestamp": 1713499235123,
+        "dateString": "April 19th 2024, 6:00:35 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713502835138",
+        "timestamp": 1713502835138,
+        "dateString": "April 19th 2024, 7:00:35 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "warn",
+        "profile-collection": "warn",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713506434996",
+        "timestamp": 1713506434996,
+        "dateString": "April 19th 2024, 8:00:34 am",
+        "isWorkingTime": false
+    },
+    {
+        "event-collection": "pass",
+        "segmentation": "pass",
+        "profile-collection": "pass",
+        "testid": "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713510035126",
+        "timestamp": 1713510035126,
+        "dateString": "April 19th 2024, 9:00:35 am",
         "isWorkingTime": true
     }
 ]
