@@ -2,6 +2,7 @@ const fs = require('fs');
 const moment = require('moment');
 const _ = require('underscore');
 const batchIngestion = require('./modules/aep/batch-upload.js');
+var argv = require('minimist')(process.argv.slice(2));
 
 // To run the code, open DSN Status, filter the Network result with "luma" and copy the response.
 // Paste the response in dsn-availability.json and run the code.
@@ -63,10 +64,13 @@ function convertToDateTime(str) {
 // Main function that calls the other functions
 function main() {
 
+    // Read the data as exported from DSN Status
     const mostRecentData = readDataFromFile();
-    // Read the file source_array.json
+    
+    // Read the file source_array.json that contains the full data in Array format.
     const oldData = JSON.parse(fs.readFileSync('input/dsn-availability/source_array_full.json', 'utf8'));
 
+    // Store the full data as array and XDM format in 2 separate files
     let dataForAEPFull = 'data-for-aep_full' + '.json';
     const mostRecentDataArray = convertToArray(mostRecentData);
     // Merge mostRecentDataArray with history
@@ -74,10 +78,24 @@ function main() {
     const schemaOutputFull = createSchemaOutput(fullData);
     fs.writeFileSync('output/dsn-availability/' + dataForAEPFull, JSON.stringify(schemaOutputFull, 0, 4));
 
+    
+
+    // Store the delta data as array and XDM format in 2 separate files    
     let dataForAEPDelta = 'data-for-aep_delta' + '.json';
     const deltaData = getDeltaData(mostRecentDataArray,oldData);
     const schemaOutputDelta = createSchemaOutput(deltaData);
     fs.writeFileSync('output/dsn-availability/' + dataForAEPDelta, JSON.stringify(schemaOutputDelta, 0, 4));
+
+    // Upload data to AEP
+    batchIngestion.setCredentials({
+        clientId: argv.clientId,
+        clientSecret: argv.clientSecret,
+        scope: argv.scope,
+        ims_org: argv.ims_org,
+        sandbox_name: argv.sandbox_name,
+        datasetId: argv.datasetId
+    });
+    batchIngestion.uploadFile();
 }
 
 function getDeltaData(newData, oldData){
@@ -141,78 +159,7 @@ function createSchemaOutput(data) {
         out.push(clone_c);
 
     }
-
     return out;
 }
 
-function dataAnalyser(data) {
-    // Expected output
-    // {
-
-    // "event-collection": {
-    // "totalTest": 0,
-    // "totalPass": 0,
-    // "totalWarn": 0,
-    // "totalFail": 0,
-    // "passPercentage": 0,
-    // "warnPercentage": 0,
-    // "failPercentage": 0
-    // },
-    // "segmentation": {
-    // "totalTest": 0,
-    // "totalPass": 0,
-    // "totalWarn": 0,
-    // "totalFail": 0,
-    // "passPercentage": 0,
-    // "warnPercentage": 0,
-    // "failPercentage": 0
-    // },
-    // "profile-collection": {
-    // "totalTest": 0,
-    // "totalPass": 0,
-    // "totalWarn": 0,
-    // "totalFail": 0,
-    // "passPercentage": 0,
-    // "warnPercentage": 0,
-    // "failPercentage": 0
-    // }
-    //};
-    let out = {
-        "event-collection": {
-            "totalTest": data.length,
-            "totalPass": _.filter(data, function (test) { return test['event-collection'] == 'pass'; }).length,
-            "totalWarn": _.filter(data, function (test) { return test['event-collection'] == 'warn'; }).length,
-            "totalFail": _.filter(data, function (test) { return test['event-collection'] == 'fail'; }).length
-        },
-        "segmentation": {
-            "totalTest": data.length,
-            "totalPass": _.filter(data, function (test) { return test['segmentation'] == 'pass'; }).length,
-            "totalWarn": _.filter(data, function (test) { return test['segmentation'] == 'warn'; }).length,
-            "totalFail": _.filter(data, function (test) { return test['segmentation'] == 'fail'; }).length
-        },
-        "profile-collection": {
-            "totalTest": data.length,
-            "totalPass": _.filter(data, function (test) { return test['profile-collection'] == 'pass'; }).length,
-            "totalWarn": _.filter(data, function (test) { return test['profile-collection'] == 'warn'; }).length,
-            "totalFail": _.filter(data, function (test) { return test['profile-collection'] == 'fail'; }).length
-        }
-    };
-
-    out['event-collection']['passPercentage'] = Math.round((out['event-collection']['totalPass'] / out['event-collection']['totalTest']) * 100);
-    out['event-collection']['warnPercentage'] = Math.round((out['event-collection']['totalWarn'] / out['event-collection']['totalTest']) * 100);
-    out['event-collection']['failPercentage'] = Math.round((out['event-collection']['totalFail'] / out['event-collection']['totalTest']) * 100);
-
-    out['segmentation']['passPercentage'] = Math.round((out['segmentation']['totalPass'] / out['segmentation']['totalTest']) * 100);
-    out['segmentation']['warnPercentage'] = Math.round((out['segmentation']['totalWarn'] / out['segmentation']['totalTest']) * 100);
-    out['segmentation']['failPercentage'] = Math.round((out['segmentation']['totalFail'] / out['segmentation']['totalTest']) * 100);
-
-    out['profile-collection']['passPercentage'] = Math.round((out['profile-collection']['totalPass'] / out['profile-collection']['totalTest']) * 100);
-    out['profile-collection']['warnPercentage'] = Math.round((out['profile-collection']['totalWarn'] / out['profile-collection']['totalTest']) * 100);
-    out['profile-collection']['failPercentage'] = Math.round((out['profile-collection']['totalFail'] / out['profile-collection']['totalTest']) * 100);
-
-    return out;
-
-}
-
-batchIngestion.uploadFile()
-// main()
+main();

@@ -1,0 +1,832 @@
+{
+    "status": "success",
+    "value": {
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713636034924": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713297635136": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713420034952": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713841235317": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713693634940": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713279634967": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713589235248": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713517235277": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713628835223": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713423635104": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713607234932": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713384034974": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713333635191": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713373235176": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713394835331": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713312035236": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713481234949": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713726034940": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713668435086": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713844835284": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713326435000": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713722435072": {
+            "event-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713603635210": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713618034947": {
+            "event-collection": "fail",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713524434881": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713747635043": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713582034956": {
+            "event-collection": "fail",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713546035515": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713758435053": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713258035180": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713344435127": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713711635212": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713531635016": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713733235245": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713502835138": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713776435208": {
+            "event-collection": "fail",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713358835526": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713697235227": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713513634984": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713445235037": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713596434976": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713430835151": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713600034967": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713639635096": {
+            "event-collection": "fail",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713308434980": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713690034989": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713679235231": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713459635080": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713362435162": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713535235115": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713369635098": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713355235027": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713614434966": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713466835011": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713672035074": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713704435073": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713787235121": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713740434894": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713682834872": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713348035063": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713315635137": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713798035133": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713427235155": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713560435016": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713294035539": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713646835150": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713538835137": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713571235013": {
+            "event-collection": "fail",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713319235142": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713456035107": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713304835028": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713261635037": {
+            "event-collection": "warn",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713834035049": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713549635068": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713848435096": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713492035052": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713729634990": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713819635173": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713654035064": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713495635218": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713790835087": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713826835185": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713632434968": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713664835066": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713409235008": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713268835131": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713812435217": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713816035178": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713718834971": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713506434996": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713452435119": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713499235123": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713610834988": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713553235034": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713484835145": {
+            "event-collection": "warn",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713340835064": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713322834910": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713837635097": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713470434911": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713405634943": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713265235220": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713387635006": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713441634987": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713398435113": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713765635116": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713391234994": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713754835254": {
+            "event-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713855634957": {
+            "event-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713578435198": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713276034998": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713528035161": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713783634935": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713661235116": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713286835318": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713794435372": {
+            "event-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713376835059": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713715235097": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713643235131": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713625235065": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713780035106": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713474035066": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713488434891": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713542435344": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713463235228": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713272435209": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713510035126": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713772834992": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713564034955": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713574835043": {
+            "event-collection": "fail",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713621635117": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713434435094": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713337234962": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713585634889": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713283235127": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713657635106": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713351635203": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713744034953": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713708035151": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713254435386": {
+            "event-collection": "pass",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713762034952": {
+            "event-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713769235072": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713852035355": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713416434995": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713592835376": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713477635122": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713556834942": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713412835185": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713366035096": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713675634998": {
+            "event-collection": "fail",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713402035289": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713567635065": {
+            "event-collection": "fail",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713301235032": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713736835027": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713438035066": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713751235101": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713520835202": {
+            "event-collection": "fail",
+            "segmentation": "fail",
+            "profile-collection": "fail"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713380435078": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713808835154": {
+            "event-collection": "pass",
+            "segmentation": "warn",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713290435062": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713448835191": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713830435115": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713700835083": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713823235116": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713805235153": {
+            "event-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713686435088": {
+            "event-collection": "pass",
+            "segmentation": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713330034912": {
+            "event-collection": "warn",
+            "segmentation": "warn",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713650434959": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "pass"
+        },
+        "e2e-tests/BF9C27AA6464801C0A495FD0@AdobeOrg/luma-emea:1713801635261": {
+            "event-collection": "pass",
+            "segmentation": "pass",
+            "profile-collection": "warn"
+        }
+    }
+}
